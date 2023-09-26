@@ -1,0 +1,20 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url("https://media.istockphoto.com/id/480560906/photo/green-grass.jpg?b=1&s=170667a&w=0&k=20&c=_jQasZSLQzTRc9R9mtjkPVqT8hc2K6t8uOAM-do3U_0=");
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: fantasy;
+}
